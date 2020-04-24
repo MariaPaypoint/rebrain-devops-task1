@@ -1,2 +1,1 @@
-# rebrain-devops-task1
-My first project on Github
+В данном репозитории находится дефолтный конфигурационный файл nginx 
